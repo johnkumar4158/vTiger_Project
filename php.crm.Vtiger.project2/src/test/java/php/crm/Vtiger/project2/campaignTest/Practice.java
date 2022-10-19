@@ -15,7 +15,8 @@ public class Practice {
 		
 		System.out.println(date.getMonth());
 		
-		System.out.println();
+		System.out.println("Test");
+		System.out.println("Chanes the project");
 	}
 	
 
